@@ -1,7 +1,7 @@
 
 # Hi, I'm Meet Barodawala 👋
 
-### M.Sc. Global Software Development Student | Aspiring Software Developer
+### M.Sc. Global Software Development Student | Software Developer | Android | Full-Stack | Cybersecurity
 
 I'm a Master's student in Global Software Development at Fulda University of Applied Sciences, Germany, passionate about building practical software solutions.
 
