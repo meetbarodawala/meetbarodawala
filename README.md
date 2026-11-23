@@ -26,7 +26,7 @@ I'm a Master's student in Global Software Development at Fulda University of App
 
 ### 🚀 Featured Projects
 
-Coming soon! I'm currently organizing and documenting my projects.
+Explore my repositories to discover projects I've developed across software engineering, mobile applications, backend development and cybersecurity.
 
 ### 📫 Connect with me
 
